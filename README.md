@@ -1,5 +1,4 @@
-<h2> 안녕하세요!</h2>
-
+- 리포지토리 청소중입니다.
 <div><h3>📱 프론트엔드(Frontend)</h3></div>
 
 <div align=center> 
@@ -13,3 +12,4 @@
   <br>  
 </div>
 <div><h3>💻 백엔드(Backend)</h3></div>
+-
