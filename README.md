@@ -53,10 +53,10 @@
 
 <h3>✨ Highlights</h3>
 <ul>
-  <li>📘 <strong>학습중:</strong> Docker, AWS, CI/CD, 클라우드 인프라, Java, Spring boot, MyBatis 등의 백엔드 </li>
-  <li>✏ <strong>교육중:</strong> 신세계 I&C 풀스텍 과정 수료중
-  <li>📅 <strong>목표:</strong> 가치있는 프로그램으로 인간과 사회에 기여하는 개발자로</li>
-  <li>📌<strong>가치관: 바람처럼 부드럽게, 바위처럼 단단하게</strong> </li>
+  <li>📕 <strong>학습중:</strong> Docker, AWS, CI/CD, 클라우드 인프라, Java, Spring boot, MyBatis 등의 백엔드 </li>
+  <li>📚 <strong>교육:</strong> 신세계 I&C 풀스텍 과정 수료중
+  <li>🎯 <strong>목표:</strong> 가치있는 프로그램으로 인간과 사회에 기여하는 개발자로</li>
+  <li>🎨 <strong>가치관:</strong> 바람처럼 부드럽게, 바위처럼 단단하게 </li>
 </ul>
 <br>
 
