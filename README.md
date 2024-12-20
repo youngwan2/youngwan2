@@ -1,5 +1,5 @@
 <!-- 깃허브 README -->
-- 비고) 깃허브 리포지토리 싹다 정리중입니다.
+- 비고) 깃허브 리포지토리 정리중입니다.
 
 <div align="center">
   <h2>👋 Welcome to My GitHub!</h2>
@@ -12,9 +12,10 @@
 <h3>📊 GitHub Stats</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=youngwan2&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youngwan2&theme=radical" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=youngwan2&theme=dark" alt="GitHub Streak">
 </div>
 <br>
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats) -->
 
 ---
 
@@ -54,8 +55,8 @@
 <ul>
   <li>📘 <strong>학습중:</strong> Docker, AWS, CI/CD, 클라우드 인프라, Java, Spring boot, MyBatis 등의 백엔드 </li>
   <li>✏ <strong>교육중:</strong> 신세계 I&C 풀스텍 과정 수료중
-  <li>📅 <strong>목표:</strong> 뭐든 잘하는 개발자로 성장하기</li>
-  <li>📌<strong>가치관:</strong> 후회 하더라도 내가 가고자 했으면 끝까지 가보자</li>
+  <li>📅 <strong>목표:</strong> 가치있는 프로그램으로 인간과 사회에 기여하는 개발자로</li>
+  <li>📌<strong>가치관: 바람처럼 부드럽게, 바위처럼 단단하게</strong> </li>
 </ul>
 <br>
 
