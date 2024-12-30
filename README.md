@@ -10,16 +10,16 @@
 ---
 
 <h3>📊 GitHub Stats</h3>
-<div align="center">
+<div >
   <img src="https://github-readme-stats.vercel.app/api?username=youngwan2&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://streak-stats.demolab.com/?user=youngwan2&theme=dark" alt="GitHub Streak">
 </div>
-<br>
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats) -->
+<br/>
 
 ---
-
-<h3>📱 프론트엔드(Frontend)</h3>
+<h3>🔨 Skill </h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngwan2&layout=compact" alt="Github Skill Stats">
+<h4>Frontend</h4>
 <div> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -31,7 +31,7 @@
 </div>
 <br>
 
-<h3>💻 백엔드(Backend)</h3>
+<h4>Backend</h4>
 <div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -40,7 +40,7 @@
 </div>
 <br>
 
-<h3>🔧 데브옵스(DevOps)</h3>
+<h4>DevOps</h4>
 <div> 
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/aws%20s3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white">
@@ -55,7 +55,7 @@
 <ul>
   <li>📕 <strong>학습중:</strong> Docker, AWS, CI/CD, 클라우드 인프라, Java, Spring boot, MyBatis 등의 백엔드 </li>
   <li>📚 <strong>교육:</strong> 신세계 I&C 풀스텍 과정 수료중
-  <li>🎯 <strong>목표:</strong> 가치있는 프로그램으로 인간과 사회에 기여하는 개발자로</li>
+  <li>🎯 <strong>목표:</strong> 가치있는 프로그램으로 인간과 사회에 기여하는 사람으로 성장하기</li>
   <li>🎨 <strong>가치관:</strong> 바람처럼 부드럽게, 바위처럼 단단하게 </li>
 </ul>
 <br>
