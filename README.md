@@ -1,5 +1,5 @@
 <!-- 깃허브 README -->
-- 비고) 깃허브 리포지토리 정리중입니다.
+
 
 <div align="center">
   <h2>👋 Welcome to My GitHub!</h2>
@@ -10,7 +10,7 @@
 ---
 
 <h3>📊 GitHub Stats</h3>
-<div >
+<div style="display:flex" >
   <img src="https://github-readme-stats.vercel.app/api?username=youngwan2&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://streak-stats.demolab.com/?user=youngwan2&theme=dark" alt="GitHub Streak">
 </div>
